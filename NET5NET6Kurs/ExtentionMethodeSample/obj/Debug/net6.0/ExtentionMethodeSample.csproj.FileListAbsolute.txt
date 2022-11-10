@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\bin\Debug\net6.0\ExtentionMethodeSample.exe
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\bin\Debug\net6.0\ExtentionMethodeSample.deps.json
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\bin\Debug\net6.0\ExtentionMethodeSample.runtimeconfig.json
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\bin\Debug\net6.0\ExtentionMethodeSample.dll
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\bin\Debug\net6.0\ExtentionMethodeSample.pdb
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\obj\Debug\net6.0\ExtentionMethodeSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\obj\Debug\net6.0\ExtentionMethodeSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\obj\Debug\net6.0\ExtentionMethodeSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\obj\Debug\net6.0\ExtentionMethodeSample.AssemblyInfo.cs
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\obj\Debug\net6.0\ExtentionMethodeSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\obj\Debug\net6.0\ExtentionMethodeSample.dll
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\obj\Debug\net6.0\refint\ExtentionMethodeSample.dll
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\obj\Debug\net6.0\ExtentionMethodeSample.pdb
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\obj\Debug\net6.0\ExtentionMethodeSample.genruntimeconfig.cache
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\ExtentionMethodeSample\obj\Debug\net6.0\ref\ExtentionMethodeSample.dll
