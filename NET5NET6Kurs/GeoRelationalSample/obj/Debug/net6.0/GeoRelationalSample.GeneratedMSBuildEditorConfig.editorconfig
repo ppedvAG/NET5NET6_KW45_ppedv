@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GeoRelationalSample
+build_property.RootNamespace = GeoRelationalSample
+build_property.ProjectDir = C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\GeoRelationalSample\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\GeoRelationalSample
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Continents/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGluZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Continents/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGluZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Continents/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGluZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Continents/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGluZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Continents/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGluZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Countries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Countries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Countries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Countries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Countries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/LanguagesInCountries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VzSW5Db3VudHJpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/LanguagesInCountries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VzSW5Db3VudHJpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/LanguagesInCountries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VzSW5Db3VudHJpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/LanguagesInCountries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VzSW5Db3VudHJpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/LanguagesInCountries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VzSW5Db3VudHJpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Languages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Languages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Languages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Languages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Languages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/NET5NET6_KW45_ppedv/NET5NET6Kurs/GeoRelationalSample/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-e0kq5m00t1

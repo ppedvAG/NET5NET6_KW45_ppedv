@@ -1,0 +1,11 @@
+﻿@using MVC_NET6_IOCSample.Services; @*Alternativ kann man das Namespace auch global in der _ViewImports.cshtml verwenden *@
+@inject ITimeService timeService;
+
+@{
+    ViewData["Title"] = "Sample3";
+}
+
+<h1>Variante mit @@inject</h1>
+
+@timeService.GetCurrentTime()
+

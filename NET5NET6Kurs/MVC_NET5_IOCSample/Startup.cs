@@ -35,9 +35,9 @@ namespace MVC_NET5_IOCSample
 
             //Lieber IOC Container, wir verwenden MVC + Default Dienste, die wichtig sind
             services.AddControllersWithViews(); //MVC
-            services.AddControllers(); //WebAPI 
-            services.AddRazorPages(); //Geschwister UI -> Razor Page
-            services.AddMvc(); //RazorPage + MVC 
+            //services.AddControllers(); //WebAPI 
+            //services.AddRazorPages(); //Geschwister UI -> Razor Page
+            //services.AddMvc(); //RazorPage + MVC 
 
             services.AddTimeService();
         }
@@ -47,14 +47,19 @@ namespace MVC_NET5_IOCSample
         {
             if (env.IsDevelopment())
             {
+                //Wird nur für Development verwendet 
                 app.UseDeveloperExceptionPage();
             }
             else
             {
+                //Wird in der Produkiven Umgebung verwendet
                 app.UseExceptionHandler("/Home/Error");
+                
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
+                app.UseHsts(); //
             }
+
+            //Soll Allgemein verwendet werden
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 

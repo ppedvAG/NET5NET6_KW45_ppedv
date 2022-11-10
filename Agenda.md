@@ -12,9 +12,12 @@ Themen
 -----------------------------------------------------
 ASPNETCORE (IOC / MVC / WebAPI ):
 - [ ] SOLID
-- [ ] IOC Container
-- [ ] Verwenden von IOC in ASP.NET MVC
-- [ ] WebAPI / MVC 
+- [x] IOC Container
+- [x] Verwenden von IOC in ASP.NET MVC
+- [x] WebAPI / MVC 
+
+
+
   
 - [ ] MVC mit GeoDb (Relationale DB)
 - [ ] Consolen-Anwendung mit EF Core 
@@ -27,12 +30,7 @@ ASPNETCORE (IOC / MVC / WebAPI ):
 
 ------------------------------------------------------
 
-MVC:
-
--------------------------------------------------------
-Razor Pages:
-
--------------------------------------------------------
+- Console mit EFCore
 
 
 
