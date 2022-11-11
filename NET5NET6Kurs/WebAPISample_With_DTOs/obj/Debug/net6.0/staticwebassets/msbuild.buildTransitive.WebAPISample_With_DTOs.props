@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebAPISample_With_DTOs.props" />
+</Project>

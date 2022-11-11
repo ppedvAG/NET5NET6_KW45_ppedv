@@ -7,6 +7,8 @@
 
         public string Name { get; set; }
 
+        
+
         public virtual Continent ContinentRef { get; set; }
 
         public virtual ICollection<LanguagesInCountry> LanguagesInCountry { get; set; }

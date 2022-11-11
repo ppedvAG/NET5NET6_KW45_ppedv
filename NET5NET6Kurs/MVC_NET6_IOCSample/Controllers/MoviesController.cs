@@ -46,7 +46,13 @@ namespace MVC_NET6_IOCSample.Controllers
         // GET: Movies/Create
         public IActionResult Create()
         {
-            return View();
+            Movie defaultMovie = new Movie()
+            {
+                Title = "noch kein Filmtitel",
+                Description = "bitte Beschreibung angeben"
+            };
+
+            return View(defaultMovie);
         }
 
         // POST: Movies/Create
@@ -54,14 +60,22 @@ namespace MVC_NET6_IOCSample.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Description,Price,Genre")] Movie movie)
+        public async Task<IActionResult> Create([Bind("Id,Title,Description,Price,Year,Genre")] Movie movie)
         {
+
+            //Manuelle Regeln könnten auch verwendet werden 
+            if (movie.Title == "The Crow")
+            {
+                ModelState.AddModelError("Title", "Der Film steht auf dem Index");
+            }
+
             if (ModelState.IsValid)
             {
                 _context.Add(movie);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+
             return View(movie);
         }
 

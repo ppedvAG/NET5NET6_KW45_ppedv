@@ -58,6 +58,7 @@ namespace GeoRelationalSample.Controllers
         {
             ModelState.Remove("Countries");
 
+            
             if (ModelState.IsValid)
             {
                 _context.Add(continent);

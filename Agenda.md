@@ -19,14 +19,14 @@ ASPNETCORE (IOC / MVC / WebAPI ):
 
 
   
-- [ ] MVC mit GeoDb (Relationale DB)
+- [x] MVC mit GeoDb (Relationale DB)
 - [ ] Consolen-Anwendung mit EF Core 
 
-- [ ] WebAPI - SwaggerUI und Konventionen
-- [ ] Was ist MediatR -> Für WebAPI 
+- [x] WebAPI - SwaggerUI und Konventionen
+- [x] Was ist MediatR -> Für WebAPI 
 
-- [ ] MVC -> Dezimal-Zahlen Bug -> Behebung 
-- [ ] MVC HttpClient -> Bug Potenzial (Denial Of Server Attack)
+- [x] MVC -> Dezimal-Zahlen Bug -> Behebung 
+- [x] MVC HttpClient -> Bug Potenzial (Denial Of Server Attack)
 
 ------------------------------------------------------
 

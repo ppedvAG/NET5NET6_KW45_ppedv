@@ -53,6 +53,9 @@ namespace GeoRelationalSample.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("Population")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("ContinentId");
