@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\bin\Debug\net6.0\007_ContinueWithParameter.exe
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\bin\Debug\net6.0\007_ContinueWithParameter.deps.json
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\bin\Debug\net6.0\007_ContinueWithParameter.runtimeconfig.json
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\bin\Debug\net6.0\007_ContinueWithParameter.dll
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\bin\Debug\net6.0\007_ContinueWithParameter.pdb
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\obj\Debug\net6.0\007_ContinueWithParameter.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\obj\Debug\net6.0\007_ContinueWithParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\obj\Debug\net6.0\007_ContinueWithParameter.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\obj\Debug\net6.0\007_ContinueWithParameter.AssemblyInfo.cs
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\obj\Debug\net6.0\007_ContinueWithParameter.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\obj\Debug\net6.0\007_ContinueWithParameter.dll
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\obj\Debug\net6.0\refint\007_ContinueWithParameter.dll
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\obj\Debug\net6.0\007_ContinueWithParameter.pdb
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\obj\Debug\net6.0\007_ContinueWithParameter.genruntimeconfig.cache
+C:\Aktueller Kurs\NET5NET6_KW45_ppedv\NET5NET6Kurs\007_ContinueWithParameter\obj\Debug\net6.0\ref\007_ContinueWithParameter.dll
